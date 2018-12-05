@@ -1,3 +1,7 @@
+
 <resources>
-    <string name="app_name">G5-PRO3-2018</string>
+    <string name="app_name">G5-PRO3-2018 </string>
+    <string name="btn_trombinoscope">Trombinoscope</string>
+    <string name="btn_addperson">Ajouter une personne</string>
+    <string name="action_refresh">Delete</string>
 </resources>
